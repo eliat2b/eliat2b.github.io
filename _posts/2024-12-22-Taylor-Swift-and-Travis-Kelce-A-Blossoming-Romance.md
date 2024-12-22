@@ -4,6 +4,7 @@ title: "Taylor Swift and Travis Kelce: A Blossoming Romance"
 date: 2024-12-22
 categories: [celebrity, relationship, pop-culture]
 author: "Your Name"
+image: assets/images/test11.jpg
 ---
 
 # Taylor Swift and Travis Kelce: A Blossoming Romance
