@@ -21,7 +21,7 @@ plugins:
   
 authors:
     Elara:
-      name:           Elara Monroe
+      name: Elara Monroe
 
 
  
@@ -33,7 +33,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: Elara Monroe
       avatar: /assets/images/avatar1.jpg
       
   # all pages
