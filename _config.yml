@@ -1,7 +1,7 @@
 # Site
 name: 'Celebsreels'
 description: 'Celebsreels'
-logo: 'assets/images/logo.png'
+logo: 'assets/images/favicon.ico'
 favicon: 'assets/images/favicon.ico'
 #baseurl: '/mundana-theme-jekyll' # For local development mode.
 baseurl: '' #Use this when you push to Github, or GitLab.
