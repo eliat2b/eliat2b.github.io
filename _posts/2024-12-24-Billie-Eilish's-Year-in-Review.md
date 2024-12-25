@@ -5,6 +5,7 @@ date: 2024-12-25
 categories: [Music, Billie Eilish ,Entertainment]
 author: mem
 image: https://www.nme.com/wp-content/uploads/2021/07/Billie-Eilish-1392x884.jpg
+author: Elara
 ---
 
 As 2024 draws to a close, Billie Eilish continues to captivate audiences worldwide with her musical prowess and candid personal insights. This year has been a whirlwind for the 23-year-old artist, marked by a successful world tour, intimate performances, and open discussions about her personal life.
