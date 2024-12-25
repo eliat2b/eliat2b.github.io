@@ -5,7 +5,7 @@ date: 2024-12-22
 categories: [Sydney Sweeney, Actors]
 image: https://www.hawtcelebs.com/wp-content/uploads/2021/08/sydney-sweeney-at-a-photoshoot-august-2021-9_thumbnail.jpg
 tags: [Sydney Sweeney, Euphoria, The White Lotus, Hollywood, Acting]
-author: "CelebsReels"
+author: Elara
 ---
 
 # Sydney Sweeney: Hollywood's Rising Star and Her Journey to the Top
