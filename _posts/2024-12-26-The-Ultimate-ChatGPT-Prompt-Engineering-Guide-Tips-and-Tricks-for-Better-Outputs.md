@@ -3,7 +3,7 @@ layout: post
 title: "The Ultimate ChatGPT Prompt Engineering Guide: Tips and Tricks for Better Outputs"
 author: Elara
 categories: [AI Guides, Productivity]
-image: assets/images/Screenshot from 2024-12-26 18-01-34.png
+image: assets/images/ChatGPT.png
 tags: [ChatGPT, Prompt Engineering, AI Tips, OpenAI, Productivity]
 featured: true
 ---
