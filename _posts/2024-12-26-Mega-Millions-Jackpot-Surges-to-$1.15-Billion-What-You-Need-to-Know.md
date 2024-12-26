@@ -3,7 +3,7 @@ layout: post
 title: "Mega Millions Jackpot Surges to $1.15 Billion: What You Need to Know"
 author: Elara
 categories: [News, Lottery, Finance]
-image: assets/images/mega_millions_jackpot.jpg
+image: assets/images/mega_millions_jackpot.png
 tags: [Mega Millions, Lottery, Jackpot, Finance, 2024]
 featured: true
 ---
