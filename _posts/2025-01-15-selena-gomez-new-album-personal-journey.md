@@ -3,7 +3,7 @@ layout: post
 title: "Selena Gomez's Heartfelt Return: A Deeper Look at Her New Album and Personal Journey"
 author: Elara
 categories: [Celebrity News, Selena Gomez, Music]
-image: assets/images/selena_gomez_album.jpg
+image: https://i.pinimg.com/736x/a4/c5/68/a4c56808e1b32777211f45bf9b886668.jpg
 tags: [Selena Gomez, new album, Rare album, mental health, personal growth, music industry, pop music, celebrity news]
 featured: true
 ---
